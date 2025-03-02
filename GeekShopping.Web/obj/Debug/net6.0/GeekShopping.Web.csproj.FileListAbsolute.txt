@@ -28,3 +28,4 @@ C:\CursoWebApi\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\refint\GeekShoppin
 C:\CursoWebApi\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.pdb
 C:\CursoWebApi\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.genruntimeconfig.cache
 C:\CursoWebApi\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref\GeekShopping.Web.dll
+C:\CursoWebApi\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.sourcelink.json
